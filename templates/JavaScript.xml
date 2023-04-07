@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="importns" value="import * as $ITEM$ from '$MODULE$'&#10;$END$" description="import 语句 - 从 'a' 导入 * as b" toReformat="true" toShortenFQNames="true">
+    <variable name="ITEM" expression="jsSuggestImportedEntityName()" defaultValue="Namespace" alwaysStopAt="true" />
+    <variable name="MODULE" expression="" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+</templateSet>

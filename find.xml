@@ -1,0 +1,21 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="文件 '…\src\store\module\user.js'" />
+    <option name="defaultScopeName" value="文件 '…\src\store\module\user.js'" />
+    <option name="SEARCH_SCOPE" value="文件 '…\src\store\module\user.js'" />
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.ng</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.html</mask>
+    <mask>*.mts</mask>
+    <mask>*.cts</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
+  </component>
+</application>
